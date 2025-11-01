@@ -285,4 +285,5 @@ if 'selected_model' in locals() and selected_model is not None:
 
 # Footer
 st.markdown("---")
-st.markdown("<p style='text-align: center; color: #777;'>Developed with ❤️ by  venu</p>", unsafe_allow_html=True)
+
+st.markdown("<p style='text-align: center; color: #777;'>Developed  ❤️ by  venu</p>", unsafe_allow_html=True)
